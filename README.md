@@ -36,27 +36,32 @@ Here you'll find:
 
 ### 🔧 Featured Projects
 
-#### 1. 🕵️‍♂️ StegTool  
-A comprehensive command-line tool for image steganography. Easily hide and extract secret messages using various steganographic techniques. Built with modular support to add custom methods with ease.  
+#### [1. 🕵️‍♂️ HeaderHunter Pro](https://github.com/utkarsh-404/HeaderHunter) 
+HeaderHunter Pro is a cybersecurity-focused web application that scans websites for critical security headers, explains the risks of missing headers, and provides real-world configuration fixes.
 
-> 🔐 CLI-based interface | 🖼️ Image Steganography | 🔧 Modular Design
+Whether you're a developer, security engineer, or ethical hacker — this tool gives you an instant look at a website’s HTTP defense posture.
+
+**Link:** https://utkarsh-404.github.io/HeaderHunter 
 
 ---
 
-#### 2. 🌐 SubEnum  
-A Bash script that automates subdomain enumeration, live target detection, and recon using popular tools. Designed for quick reconnaissance with just one command.
+#### [2. 🦅 IntelHawk](https://github.com/utkarsh-404/IntelHawk)  
+Advanced OSINT Reconnaissance Web Application
+A modular, beginner-friendly, and powerful toolkit for cybersecurity professionals, bug bounty hunters, and researchers.
 
 **Features:**
-- Subdomain Enumeration via 8+ tools (`subfinder`, `sublist3r`, `knockpy`, etc.)
-- Live Target Detection using `httprobe`
-- Reconnaissance:
-  - Screenshots via `EyeWitness`
-  - Technology detection via `WhatWeb`
-- Single-command execution with auto-saved results
+🔎 Subdomain Enumeration (via Sublist3r)
+🌐 Network Scanning (via Nmap)
+📄 WHOIS Lookup (via python-whois)
+📧 Email Harvesting (via theHarvester)
+🧠 Technology Detection (via WhatWeb)
+📍 IP Geolocation (via IP-API)
+🔐 Breach Check (via Breach-Checker)
+🧬 Malware Scan (via VirusTotal API)
 
 ---
 
-#### 3. 🛡️ Web Application Firewall (Custom Proxy-Based)  
+#### [3. 🛡️ Web Application Firewall (Custom Proxy-Based)](https://github.com/utkarsh-404/WAF)  
 Developed a secure web application with an integrated proxy acting as a basic WAF (Web Application Firewall). Hosted the main application on port `5000` and the proxy on port `5001`. All traffic is routed through the proxy, allowing logging and security enforcement.
 
 **Key Highlights:**
@@ -68,6 +73,7 @@ Developed a secure web application with an integrated proxy acting as a basic WA
 ---
 
 Stay tuned — more tools and writeups are coming!
+**Checkout My Blog:** https://ultrahacktalks.blogspot.com/
 
 ---
 
